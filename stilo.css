@@ -1,0 +1,28 @@
+body{
+	background: #AA1100;
+}
+#banner{
+	height: 10%;
+	width: 100%;
+}
+.video{
+	text-align: center;
+}
+.descri{
+	color: #5555FF;
+	text-align: center;
+}
+.h3{
+	text-align: center;
+}
+.pedraletra{
+	padding: 50px;
+	color: yellow;
+	display: inline-block;
+	vertical-align: top;
+}
+.pedra{
+	
+width: 10%;
+
+}
